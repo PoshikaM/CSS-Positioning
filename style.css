@@ -1,0 +1,39 @@
+/* used to the list tag elements*/
+li{
+    list-style-type: none;
+    display: inline-block;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 90px;
+    margin-top: 20px;
+    position: relative;
+}
+/* used for the para tag which is start now */
+.book{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    margin-left: 10px;
+    color: red;
+    background-color: black;
+    position: fixed;
+}
+/*used to the beach image */
+#image{
+    width: 1333px;
+    position: absolute;
+    position: static;
+} 
+/*used for the home text */
+#home{
+    margin-left: 100px;
+    position: static;
+}
+/*used for the navbar */
+.nav{
+    background-color:lightblue;
+    height: 60px;
+}
+/*used for the last sentence at the bottom */
+#besttrip{
+    text-align: center;
+    margin-top: 500px;
+}
